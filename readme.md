@@ -22,5 +22,5 @@ g++ cheetah.cpp -o cheetah
 
 time ./cheetah [client-count] [total-count]
 
-> time ./perftest 1000 100000
+> time ./cheetah 1000 100000
 
